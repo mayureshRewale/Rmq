@@ -1,0 +1,2 @@
+rmq\receiver\RmqReceiver.class
+rmq\receiver\IRmqMessageReader.class
